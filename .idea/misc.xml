@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/drawable/backgrond_sender.xml" value="0.2703125" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/drawable/background_reciver.xml" value="0.4580078125" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/drawable/borderandcolor.xml" value="0.2703125" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/drawable/bottomsheetstyle.xml" value="0.2703125" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/drawable/btn_bg.xml" value="0.2703125" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/drawable/githubbutton.xml" value="0.2703125" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/drawable/messagetypingdesigne.xml" value="0.2703125" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/drawable/relativelayoutdesign.xml" value="0.10925925925925926" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/drawable/splashscreenbackground.xml" value="0.19427083333333334" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/layout/activity_chatting_details.xml" value="0.264" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/layout/activity_github_auth.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/layout/activity_settings.xml" value="0.2" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/layout/chatlayout.xml" value="0.264" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/layout/fragment_bottomsheetfragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/layout/fragment_gossips.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/layout/fragment_meet.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/layout/meetlayout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/layout/sample_reciver.xml" value="0.4" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/layout/sample_sender.xml" value="0.264" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.24479166666666666" />
+        <entry key="..\:/Users/jadon/AndroidStudioProjects/STAG/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="D:/MyButton" />
+    <option name="OPTION_DOCUMENT_TAG_USE" value="true" />
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="true" />
+    <option name="OPTION_DOCUMENT_TAG_VERSION" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

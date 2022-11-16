@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">STAG</string>
+    <string name="login">login</string>
+
+    <string name="facebook_app_id">1506157463086049</string>
+    <string name="fb_login_protocol_scheme">fb1506157463086049</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
